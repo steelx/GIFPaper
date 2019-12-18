@@ -1,6 +1,6 @@
 # GIFPaper
 
-Set GIFs as wallpapers. As requested by [/u/EddyG](http://www.reddit.com/user/EddyG) :).
+Set GIFs as wallpapers on MAC OS
 
 ## Usage
 
