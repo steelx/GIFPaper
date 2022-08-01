@@ -4,12 +4,12 @@ Set GIFs as wallpapers on MAC OS
 
 ## Usage
 
-# Install preference pane,
-# Launch GIFPaperAgent app,
-# Go to System Preferences,
-# Set up,
-# ???
-# DISCO!
+- Install preference pane,
+- Launch GIFPaperAgent app,
+- Go to System Preferences,
+- Set up,
+- ???
+- DISCO! Boom
 
 If you're brave enough, you can add GIFPaperAgent to your login items.
 
